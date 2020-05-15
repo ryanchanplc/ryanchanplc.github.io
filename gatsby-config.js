@@ -4,7 +4,7 @@ const siteMetadata = {
 
 module.exports = {
   siteMetadata: siteMetadata,
-  pathPrefix: '/',
+
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-remark-copy-linked-files',
